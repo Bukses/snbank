@@ -1,0 +1,11 @@
+Staff 1
+Full name: Gbenga Adeosun
+Email: gbenga@gmail.com
+Username: gbenga
+Password: gbengaadeosun
+
+Staff 2
+Full name: Tobi Ojuri
+Email: tobi@gmail.com
+Username: tobi
+Password: tobiojuri
